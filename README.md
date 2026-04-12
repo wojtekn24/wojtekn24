@@ -8,42 +8,42 @@ I'm currently on a journey to build a career in cybersecurity.
 <p align="left">
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
     <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge" alt="CompTIA Security+">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
     <img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
     <img src="https://img.shields.io/badge/Cisco-CyberOps_Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CyberOps">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
     <img src="https://img.shields.io/badge/Cisco-Ethical_Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Ethical Hacker">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
     <img src="https://img.shields.io/badge/Cisco-Network_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Network Security">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
 
 #### 🌐 Networking Fundamentals
 <p align="left">
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
     <img src="https://img.shields.io/badge/Cisco-CCNA_Intro_to_Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA Intro">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
     <img src="https://img.shields.io/badge/Cisco-CCNA_SRWE-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA SRWE">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
     <img src="https://img.shields.io/badge/Cisco-CCNA_ENSA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA ENSA">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
 
-#### ☁️ Cloud & IT Support
+#### ☁️ Others
 <p align="left">
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
     <img src="https://img.shields.io/badge/AWS-Cloud_Security-232F3E?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS Cloud Security">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
     <img src="https://img.shields.io/badge/Google-IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google IT Support">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ### 🕹️ TryHackMe
