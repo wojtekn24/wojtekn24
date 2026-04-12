@@ -4,7 +4,7 @@ I'm currently on a journey to build a career in cybersecurity.
 
 ### 🏆Certifications & Badges
 
-#### 🛡️ Cybersecurity & Operations
+#### 🛡️ Cybersecurity
 <p align="left">
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
     <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge" alt="CompTIA Security+">
@@ -23,7 +23,7 @@ I'm currently on a journey to build a career in cybersecurity.
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 
-#### 🌐 Networking Fundamentals
+#### 🌐 Networking
 <p align="left">
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
     <img src="https://img.shields.io/badge/Cisco-CCNA_Intro_to_Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA Intro">
