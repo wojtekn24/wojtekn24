@@ -2,54 +2,54 @@
 
 I'm currently on a journey to build a career in cybersecurity.
 
-### 🏆 Verified Certifications
+### 🏆Certifications & Badges
 
 #### 🛡️ Cybersecurity & Operations
 <p align="left">
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
-    <img src="./images/comptia-security-plus.png" alt="CompTIA Security+" height="70" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge" alt="CompTIA Security+">
   </a>
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
-    <img src="./images/google-cybersecurity.png" alt="Google Cybersecurity Certificate" height="70" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity">
   </a>
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
-    <img src="./images/cisco-cyberops.png" alt="Cisco CyberOps Associate" height="70" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Cisco-CyberOps_Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CyberOps">
   </a>
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
-    <img src="./images/cisco-ethical-hacker.png" alt="Cisco Ethical Hacker" height="70" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Cisco-Ethical_Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Ethical Hacker">
   </a>
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
-    <img src="./images/cisco-network-security.png" alt="Cisco Network Security" height="70" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Cisco-Network_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Network Security">
   </a>
 </p>
 
 #### 🌐 Networking Fundamentals
 <p align="left">
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
-    <img src="./images/cisco-ccna-intro.png" alt="Cisco CCNA: Introduction to Networks" height="70" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Cisco-CCNA_Intro_to_Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA Intro">
   </a>
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
-    <img src="./images/cisco-ccna-srwe.png" alt="Cisco CCNA: Switching, Routing, and Wireless Essentials" height="70" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Cisco-CCNA_SRWE-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA SRWE">
   </a>
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
-    <img src="./images/cisco-ccna-ensa.png" alt="Cisco CCNA: Enterprise Networking, Security, and Automation" height="70" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Cisco-CCNA_ENSA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA ENSA">
   </a>
 </p>
 
 #### ☁️ Cloud & IT Support
 <p align="left">
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
-    <img src="./images/aws-cloud-security.png" alt="AWS Academy Graduate – Cloud Security Builder / Foundations" height="70" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/AWS-Cloud_Security-232F3E?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS Cloud Security">
   </a>
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
-    <img src="./images/google-it-support.png" alt="Google IT Support Certificate" height="70" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Google-IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google IT Support">
   </a>
 </p>
 
 ### 🕹️ TryHackMe
 <p align="left">
   <a href="https://tryhackme.com/p/wojciech.nachaj?tab=completed-rooms" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-Wojciech Nachaj-E9323D?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-E9323D?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile">
   </a>
 </p>
 <!--
