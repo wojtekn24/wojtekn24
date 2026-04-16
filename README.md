@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-I'm currently on a journey to build a career in cybersecurity.
+I'm on a journey to build a career in cybersecurity. 
+
+I’m currently learning to obtain CommpTIA CySa+ Certificate, I'm also doing CTFs, Pentesting labs and expanding my knowledge in IT technology in broad terms.
+
+  
+
 
 ### 🏆Certifications & Badges
 
@@ -52,17 +57,11 @@ I'm currently on a journey to build a career in cybersecurity.
     <img src="https://img.shields.io/badge/TryHackMe-Profile-E9323D?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile">
   </a>
 </p>
+
+
+<!--✨✨✨ Something about me ✨✨✨
+
+
 <!--
 **wojtekn24/wojtekn24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
