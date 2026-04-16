@@ -2,7 +2,7 @@
 
 I'm on a journey to build a career in cybersecurity. 
 
-#### Learning
+### 🚩 Learning
 
 I’m currently learning to obtain CommpTIA CySa+ Certificate, I'm also doing CTFs, Pentesting labs and expanding my knowledge in IT technology in broad terms.
 
@@ -59,7 +59,7 @@ I’m currently learning to obtain CommpTIA CySa+ Certificate, I'm also doing CT
 </p>
 
 
-<!--✨✨✨ Something about me ✨✨✨
+<!--#### ✨✨✨ Something about me ✨✨✨
 
 
 <!--
