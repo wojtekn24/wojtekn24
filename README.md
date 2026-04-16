@@ -4,7 +4,7 @@ I'm on a journey to build a career in cybersecurity.
 
 ### 🚩 Current Focus
 
-Apart from my studies, I’m currently studying for CompTIA CySa+ certification, I'm also doing CTFs, Pentesting labs and expanding my overall IT knowledge. I'm actively following news in the cybersecurity world and trying to stay updated.
+Apart from my studies, I’m currently preparing for the CompTIA CySA+ certification. I'm also doing CTFs, pentesting labs, and expanding my overall IT knowledge. I'm actively following news in the cybersecurity world and trying to stay updated.
 
   
 ### 🏆Certifications & Badges
