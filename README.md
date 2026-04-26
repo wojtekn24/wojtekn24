@@ -51,13 +51,6 @@ Apart from my studies, I’m currently preparing for the CompTIA CySA+ certifica
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 
-### 🕹️ TryHackMe
-<p align="left">
-  <a href="https://tryhackme.com/p/wojciech.nachaj?tab=completed-rooms" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-Profile-E9323D?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile">
-  </a>
-</p>
-
 
 <!--#### ✨✨✨ Something about me ✨✨✨
 
