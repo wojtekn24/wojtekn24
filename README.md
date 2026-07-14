@@ -6,6 +6,12 @@ I'm on a journey to build a career in cybersecurity.
 
 Apart from my studies, I’m currently preparing for the various certifications. I'm also doing CTFs, pentesting labs, and expanding my overall IT knowledge. I'm actively following news in the cybersecurity world and trying to stay updated.
 
+### 🔐 Security Projects
+| Repo | What it is |
+|---|---|
+| [web-app-penetration-tests-1](https://github.com/wojtekn24/web-app-penetration-tests-1) | CTF-style write-ups covering SQL injection, XSS, CSRF, and other OWASP Top 10 vulnerability classes |
+| [penetration-testing-reports](https://github.com/wojtekn24/penetration-testing-reports) | Black-box penetration test reports against real HackTheBox machines, recon to root |
+| [threat-detection-incident-response](https://github.com/wojtekn24/threat-detection-incident-response) | Six labs building a detection stack from log analysis to a working SIEM (Suricata, Metasploit, ELK, Atomic Red Team) |
   
 ### 🏆Certifications & Badges
 
