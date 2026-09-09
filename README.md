@@ -9,7 +9,7 @@ Apart from my studies, I’m currently preparing for the various certifications.
 ### 🔐 Security Projects
 | Repo | What it is |
 |---|---|
-| [web-app-penetration-tests-1](https://github.com/wojtekn24/web-app-penetration-tests-1) | CTF-style write-ups covering SQL injection, XSS, CSRF, and other OWASP Top 10 vulnerability classes |
+| [web-app-security-labs](https://github.com/wojtekn24/web-app-penetration-tests-1) | CTF-style labs covering SQL injection, XSS, and other OWASP Top 10 vulnerability classes |
 | [penetration-testing-reports](https://github.com/wojtekn24/penetration-testing-reports) | Black-box penetration test reports against real HackTheBox machines, recon to root |
 | [threat-detection](https://github.com/wojtekn24/threat-detection-and-incident-response) | Six labs building a detection stack from log analysis to a working SIEM (Suricata, Metasploit, ELK, Atomic Red Team) |
 | [ML-Spam-detection](https://github.com/wojtekn24/ML_Spam_detection) | Machine learning project comparing the performance of various classifiers for spam detection. |
