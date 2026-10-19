@@ -22,6 +22,9 @@ Apart from my studies, I’m currently preparing for the various certifications.
     <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge" alt="CompTIA Security+">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
+    <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge" alt="CompTIA CySA+">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
     <img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
