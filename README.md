@@ -4,7 +4,7 @@ I'm on a journey to build a career in cybersecurity.
 
 ### 🚩 Current Focus
 
-Apart from my studies, I’m currently preparing for the various certifications. I'm also doing CTFs, pentesting labs, and expanding my overall IT knowledge. I'm actively following news in the cybersecurity world and trying to stay updated.
+Apart from my studies, I'm doing CTFs, pentesting labs, and expanding my overall IT knowledge. I'm actively following news in the cybersecurity world and trying to stay updated.
 
 ### 🔐 Security Projects
 | Repo | What it is |
@@ -22,7 +22,7 @@ Apart from my studies, I’m currently preparing for the various certifications.
     <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge" alt="CompTIA Security+">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
-    <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge" alt="CompTIA CySA+">
+    <img src="https://img.shields.io/badge/CompTIA-CySA%2B-FF0000?style=for-the-badge" alt="CompTIA CySA+">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/users/wojciech-nachaj/badges" target="_blank">
     <img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity">
